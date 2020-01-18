@@ -1,3 +1,3 @@
 # robofriends
 
-A React app to explore the core concepts of the framework.
+A React+Redux app. Made to explore the core concepts of the framework.
